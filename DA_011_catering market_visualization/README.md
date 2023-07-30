@@ -1,5 +1,8 @@
 # Исследование рынка общепита для открытия нового заведения
 
+[ipynb](https://github.com/AlexVarnik/data-analyst/blob/main/DA_011_catering%20market_visualization/DA_011_catering%20market_visualization.ipynb)
+[презентация](https://github.com/AlexVarnik/data-analyst/blob/main/DA_011_catering%20market_visualization/DA_011_catering_market_summer_2022.pdf)
+
 ## Описание проекта
 
 К нам обратились инвесторы, которые решили попробовать себя в новой области и открыть заведение общественного питания в Москве.
