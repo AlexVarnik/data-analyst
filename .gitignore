@@ -1,0 +1,2 @@
+# игнорировать все файлы в каталоге .ipynb_checkpoints
+.ipynb_checkpoints/
