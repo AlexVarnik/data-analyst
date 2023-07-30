@@ -1,5 +1,9 @@
 # Портрет клиентов, склонных к уходу из банка
 
+[ipynb](https://github.com/AlexVarnik/data-analyst/blob/main/DA_013_graduation_project/DA_013_graduation_project.ipynb)
+
+[презентация](https://github.com/AlexVarnik/data-analyst/blob/main/DA_013_graduation_project/DA_013_banks.pdf)
+
 ## Описание проекта
 
 В региональном банке «Метанпром», филиалы которого расположены в Ярославле, Ростове Великом и Рыбинске, в последнее время драматически повысился отток клиентов. Это может стать проблемой, угрожающей существованию банка.
