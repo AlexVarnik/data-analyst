@@ -1,6 +1,6 @@
 # Исследование рынка общепита для открытия нового заведения
 
-[ipynb](https://github.com/AlexVarnik/data-analyst/blob/main/DA_011_catering%20market_visualization/DA_011_catering%20market_visualization.ipynb)
+[ipynb](https://nbviewer.jupyter.org/github/AlexVarnik/data-analyst/blob/main/DA_011_catering%20market_visualization/DA_011_catering%20market_visualization.ipynb)
 [презентация](https://github.com/AlexVarnik/data-analyst/blob/main/DA_011_catering%20market_visualization/DA_011_catering_market_summer_2022.pdf)
 
 ## Описание проекта
